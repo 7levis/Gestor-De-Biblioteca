@@ -1,0 +1,14 @@
+/home/levideassis/GestorDeBiblioteca/GestorDeBiblioteca/obj/Debug/net8.0/GestorDeBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/home/levideassis/GestorDeBiblioteca/GestorDeBiblioteca/obj/Debug/net8.0/GestorDeBiblioteca.AssemblyInfoInputs.cache
+/home/levideassis/GestorDeBiblioteca/GestorDeBiblioteca/obj/Debug/net8.0/GestorDeBiblioteca.AssemblyInfo.cs
+/home/levideassis/GestorDeBiblioteca/GestorDeBiblioteca/obj/Debug/net8.0/GestorDeBiblioteca.csproj.CoreCompileInputs.cache
+/home/levideassis/GestorDeBiblioteca/GestorDeBiblioteca/bin/Debug/net8.0/GestorDeBiblioteca
+/home/levideassis/GestorDeBiblioteca/GestorDeBiblioteca/bin/Debug/net8.0/GestorDeBiblioteca.deps.json
+/home/levideassis/GestorDeBiblioteca/GestorDeBiblioteca/bin/Debug/net8.0/GestorDeBiblioteca.runtimeconfig.json
+/home/levideassis/GestorDeBiblioteca/GestorDeBiblioteca/bin/Debug/net8.0/GestorDeBiblioteca.dll
+/home/levideassis/GestorDeBiblioteca/GestorDeBiblioteca/bin/Debug/net8.0/GestorDeBiblioteca.pdb
+/home/levideassis/GestorDeBiblioteca/GestorDeBiblioteca/obj/Debug/net8.0/GestorDeBiblioteca.dll
+/home/levideassis/GestorDeBiblioteca/GestorDeBiblioteca/obj/Debug/net8.0/refint/GestorDeBiblioteca.dll
+/home/levideassis/GestorDeBiblioteca/GestorDeBiblioteca/obj/Debug/net8.0/GestorDeBiblioteca.pdb
+/home/levideassis/GestorDeBiblioteca/GestorDeBiblioteca/obj/Debug/net8.0/GestorDeBiblioteca.genruntimeconfig.cache
+/home/levideassis/GestorDeBiblioteca/GestorDeBiblioteca/obj/Debug/net8.0/ref/GestorDeBiblioteca.dll
