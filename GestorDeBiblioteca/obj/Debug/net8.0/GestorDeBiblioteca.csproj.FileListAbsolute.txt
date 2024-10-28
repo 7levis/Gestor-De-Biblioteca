@@ -12,3 +12,4 @@
 /home/levideassis/GestorDeBiblioteca/GestorDeBiblioteca/obj/Debug/net8.0/GestorDeBiblioteca.pdb
 /home/levideassis/GestorDeBiblioteca/GestorDeBiblioteca/obj/Debug/net8.0/GestorDeBiblioteca.genruntimeconfig.cache
 /home/levideassis/GestorDeBiblioteca/GestorDeBiblioteca/obj/Debug/net8.0/ref/GestorDeBiblioteca.dll
+/home/levideassis/GestorDeBiblioteca/GestorDeBiblioteca/obj/Debug/net8.0/GestorDeBiblioteca.sourcelink.json
