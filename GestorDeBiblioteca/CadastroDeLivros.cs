@@ -1,3 +1,5 @@
+using System.Dynamic;
+
 namespace GestorDeBiblioteca
 {
     public class CatalogoDeLivros
