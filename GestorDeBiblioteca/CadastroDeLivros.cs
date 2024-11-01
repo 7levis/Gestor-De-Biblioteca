@@ -13,8 +13,4 @@ namespace GestorDeBiblioteca
 
     }
 
-    public void emmprestarLivro()
-    {
-        
-    }
 }
