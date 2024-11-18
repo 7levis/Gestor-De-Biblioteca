@@ -1,0 +1,20 @@
+version: '3.9'
+
+services:
+  mysql:
+    image: mysql:8.0 # Substitua pela versão do MySQL desejada
+    container_name: mysql-container
+    restart: always
+    ports:
+      - "3306:3306" # Porta local:porta do contêiner
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword # Substitua pela senha do root
+      MYSQL_DATABASE: mydatabase        # Nome do banco de dados inicial
+      MYSQL_USER: myuser                # Usuário inicial
+      MYSQL_PASSWORD: mypassword        # Senha do usuário inicial
+    volumes:
+      - mysql_data:/var/lib/mysql # Volume persistente para armazenar os dados
+
+volumes:
+  mysql_data:
+    driver: local

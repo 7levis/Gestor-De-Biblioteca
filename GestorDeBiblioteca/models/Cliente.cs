@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Dynamic;
 
-namespace GestorDeBiblioteca
+namespace GestorDeBiblioteca.models
 {
     public class Cliente
     {
@@ -24,7 +24,7 @@ namespace GestorDeBiblioteca
 
         }
         private List<Cliente> _clientes = new List<Cliente>();
-        public void CadastrarUsuario(Cliente cliente)
+        public void CadastrarCliente(Cliente cliente)
         {
             if (cliente != null)
             {
