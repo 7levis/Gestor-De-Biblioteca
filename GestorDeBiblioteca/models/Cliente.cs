@@ -24,9 +24,9 @@ namespace GestorDeBiblioteca
 
         }
         private List<Cliente> _clientes = new List<Cliente>();
-        public void CadastrarUsuario()
+        public void CadastrarUsuario(Cliente cliente)
         {
-            if (Cliente Cliente)
+            if (cliente != null)
             {
                 _clientes.Add(cliente);
                 Console.WriteLine("Cadastrando cliente");
