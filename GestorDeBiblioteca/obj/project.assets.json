@@ -19,6 +19,7 @@
       "packagesPath": "/home/levideassis/.nuget/packages/",
       "outputPath": "/home/levideassis/GestorDeBiblioteca/GestorDeBiblioteca/obj/",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "/home/levideassis/.nuget/NuGet/NuGet.Config"
       ],

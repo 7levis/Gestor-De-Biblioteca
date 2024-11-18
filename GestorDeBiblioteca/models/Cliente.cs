@@ -23,5 +23,18 @@ namespace GestorDeBiblioteca
             Tel = tel;
 
         }
+        private List<Cliente> _clientes = new List<Cliente>();
+        public void CadastrarUsuario()
+        {
+            if (Cliente Cliente)
+            {
+                _clientes.Add(cliente);
+                Console.WriteLine("Cadastrando cliente");
+            }
+            else
+            {
+                Console.WriteLine(("Cliente invalido"));
+            }
+        }
     }
 }

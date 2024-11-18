@@ -23,7 +23,7 @@ namespace GestorDeBiblioteca
             ClienteNovo = null;
         }
 
-        public bool Emprestar(Cliente cliente)
+        public bool EmprestarLivro(Cliente cliente)
         {
             if (Disponivel)
             {
@@ -37,7 +37,8 @@ namespace GestorDeBiblioteca
                 return true;
             }
         }
-        public bool Devolver()
+
+        public bool DevolverLivro()
         {
             if (!Disponivel)
             {
